@@ -183,7 +183,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="196" />
     <option name="y" value="23" />
     <option name="width" value="1280" />

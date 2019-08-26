@@ -1,0 +1,377 @@
+2019-08-18 16:00:35 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:01:27 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:01:37 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:01:52 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:02:06 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:02:13 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:02:23 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:02:34 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:02:40 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:02:49 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:02:56 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:03:01 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:03:22 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:03:22 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-18 16:03:29 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:03:37 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:03:45 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:03:51 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:04:01 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:04:08 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:07:34 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:07:42 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:07:53 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:03 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:09 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:17 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:26 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:31 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:37 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:43 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:48 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:52 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:08:58 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:09:05 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:09:11 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:09:18 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:09:25 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:09:32 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:16:58 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:17:07 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:17:20 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:17:31 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:17:38 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:17:47 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:17:55 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:01 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:07 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:14 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:19 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:24 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:30 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:36 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:43 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:50 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:18:57 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:19:05 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:32:03 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:32:11 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:32:21 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:32:34 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:32:46 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:33:04 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:33:26 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:33:54 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:34:26 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:34:26 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on MAC (ecefbbe13642d886c764ed66f6e76887)] -> css selector: div[class='loader-mask shown']] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:55979}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ecefbbe13642d886c764ed66f6e76887
+2019-08-18 16:35:07 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:35:07 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on MAC (aeb6266a429f5fb78bf47efd1949613f)] -> css selector: div[class='loader-mask shown']] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:56139}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: aeb6266a429f5fb78bf47efd1949613f
+2019-08-18 16:35:50 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:35:50 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on MAC (332ac9c7f457b3fdf650ed198a11d788)] -> css selector: div[class='loader-mask shown']] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:56327}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 332ac9c7f457b3fdf650ed198a11d788
+2019-08-18 16:36:35 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:36:35 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on MAC (88b04540acf3c277829dc0414591e0c7)] -> css selector: div[class='loader-mask shown']] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:56519}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 88b04540acf3c277829dc0414591e0c7
+2019-08-18 16:37:24 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:37:24 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on MAC (2e37066be7e44e6934c75daa25d613fa)] -> css selector: div[class='loader-mask shown']] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:56724}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2e37066be7e44e6934c75daa25d613fa
+2019-08-18 16:38:14 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:38:14 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on MAC (10d546f3d66d2676648dae8943dde531)] -> css selector: div[class='loader-mask shown']] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:56946}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 10d546f3d66d2676648dae8943dde531
+2019-08-18 16:39:05 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-18 16:39:05 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on MAC (3ce8280dc0c1b5063e6006928681ef57)] -> css selector: div[class='loader-mask shown']] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:57170}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3ce8280dc0c1b5063e6006928681ef57
+2019-08-18 16:39:35 [main] ERROR BasePage:77 - Failed to click on :: Customers
+2019-08-18 16:39:35 [main] ERROR BasePage:78 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[normalize-space()='Customers' and contains(@class, 'title title-level-1')] (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-18 16:39:35 [main] ERROR BrowserUtils:127 - org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:57398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28c66a3dab0d576ad90169ffd809d76d
+*** Element info: {Using=xpath, value=//span[normalize-space()='Customers' and contains(@class, 'title title-level-1')]}
+2019-08-18 16:39:35 [main] ERROR BrowserUtils:129 - Attempt :: 1
+2019-08-18 16:39:36 [main] ERROR BrowserUtils:127 - org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:57398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28c66a3dab0d576ad90169ffd809d76d
+*** Element info: {Using=xpath, value=//span[normalize-space()='Customers' and contains(@class, 'title title-level-1')]}
+2019-08-18 16:39:36 [main] ERROR BrowserUtils:129 - Attempt :: 2
+2019-08-18 16:39:37 [main] ERROR BrowserUtils:127 - org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:57398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28c66a3dab0d576ad90169ffd809d76d
+*** Element info: {Using=xpath, value=//span[normalize-space()='Customers' and contains(@class, 'title title-level-1')]}
+2019-08-18 16:39:37 [main] ERROR BrowserUtils:129 - Attempt :: 3
+2019-08-18 16:39:38 [main] ERROR BrowserUtils:127 - org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:57398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28c66a3dab0d576ad90169ffd809d76d
+*** Element info: {Using=xpath, value=//span[normalize-space()='Customers' and contains(@class, 'title title-level-1')]}
+2019-08-18 16:39:38 [main] ERROR BrowserUtils:129 - Attempt :: 4
+2019-08-18 16:39:39 [main] ERROR BrowserUtils:127 - org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:57398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28c66a3dab0d576ad90169ffd809d76d
+*** Element info: {Using=xpath, value=//span[normalize-space()='Customers' and contains(@class, 'title title-level-1')]}
+2019-08-18 16:39:39 [main] ERROR BrowserUtils:129 - Attempt :: 5
+2019-08-18 16:39:40 [main] ERROR BrowserUtils:127 - org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:57398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28c66a3dab0d576ad90169ffd809d76d
+*** Element info: {Using=xpath, value=//span[normalize-space()='Customers' and contains(@class, 'title title-level-1')]}
+2019-08-18 16:39:40 [main] ERROR BrowserUtils:129 - Attempt :: 6
+2019-08-18 16:39:47 [main] ERROR BasePage:87 - Failed to click on :: Contacts
+2019-08-18 16:39:47 [main] ERROR BasePage:88 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[normalize-space()='Contacts' and contains(@class, 'title title-level-2')] (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-18 16:40:35 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:40:46 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:51:47 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:55:05 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 16:59:33 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-18 17:14:01 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-19 15:31:54 [main] INFO  BasePage:54 - Loader mask gone...
+2019-08-19 22:41:28 [main] ERROR BasePage:56 - Loader mask doesn't present.
+2019-08-19 22:41:28 [main] ERROR BasePage:57 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:28:18 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:28:18 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:28:40 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:28:40 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:29:08 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:29:08 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:29:30 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:29:30 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:29:52 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:29:52 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:30:14 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:30:14 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:30:40 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:30:40 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:31:02 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:31:02 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:31:24 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:31:24 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:31:46 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:31:46 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:32:08 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:32:08 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:32:29 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:32:29 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:32:40 [main] ERROR BasePage:116 - Failed to click on :: Applications
+2019-08-25 22:32:40 [main] ERROR BasePage:117 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='menu-item-link-text' and contains(text(),'Applications')] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:61531}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 09a04af815462626b3a7ebeb2f7af8c4
+2019-08-25 22:33:32 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:33:32 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:33:51 [main] ERROR BasePage:116 - Failed to click on :: Workflows
+2019-08-25 22:33:51 [main] ERROR BasePage:117 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='menu-item-link-text' and contains(text(),'Workflows')] (tried for 6 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:61805}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 417fff73081f1f60acfec742fca48cfc
+2019-08-25 22:34:43 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:34:43 [main] ERROR BasePage:69 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:36:03 [main] ERROR BasePage:68 - Loader mask doesn't present.
+2019-08-25 22:36:03 [main] ERROR BasePage:69 - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:62358}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7725df2f4ecf45c360472f64193868d1
+*** Element info: {Using=css selector, value=div[class='loader-mask shown']}
+2019-08-25 22:56:23 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:56:23 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:56:48 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:56:48 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:57:07 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:57:07 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:57:28 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:57:28 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:57:46 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:57:46 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:58:15 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:58:15 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:58:36 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:58:36 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:58:54 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:58:54 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:59:14 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:59:14 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:59:32 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:59:32 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 22:59:51 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 22:59:51 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:00:09 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:00:09 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:03:38 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:03:38 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:03:58 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:03:58 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:04:16 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:04:16 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:04:36 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:04:36 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:04:54 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:04:54 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:05:20 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:05:20 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:05:40 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:05:40 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:05:58 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:05:58 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:06:21 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:06:21 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:06:34 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:07:33 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:07:33 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:07:54 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:07:54 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:08:04 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:08:04 [main] ERROR BasePage:72 - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:54475}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1c631d771f650028884ed24fd0344726
+*** Element info: {Using=css selector, value=div[class='loader-mask shown']}
+2019-08-25 23:11:35 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:11:35 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:12:02 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:12:02 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:12:26 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:12:26 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:12:48 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:12:48 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:13:10 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:13:10 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:13:33 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:13:33 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:13:49 [main] ERROR BasePage:120 - Failed to click on :: Mail
+2019-08-25 23:13:49 [main] ERROR BasePage:121 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='menu-item-link-text' and contains(text(),'Mail')] (tried for 6 second(s) with 500 milliseconds interval)
+2019-08-25 23:14:14 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:14:14 [main] ERROR BasePage:72 - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-4.local', ip: '2601:140:8f80:1569:0:0:0:1777%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/xv/l993cnd54xs...}, goog:chromeOptions: {debuggerAddress: localhost:56064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 24d2582ec165411ec4fb498b14282b9d
+*** Element info: {Using=css selector, value=div[class='loader-mask shown']}
+2019-08-25 23:15:39 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:15:39 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:15:57 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:15:57 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:16:14 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:16:14 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:16:30 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:16:30 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:16:47 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:16:47 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:18:03 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:18:03 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:18:19 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:18:19 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:18:33 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:18:33 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:18:48 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:18:48 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:19:04 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:19:04 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:19:20 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:19:20 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:19:36 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:19:36 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:19:52 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:19:52 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:20:09 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:20:09 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:20:24 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:20:24 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:20:40 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:20:40 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:20:56 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:20:56 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:21:35 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:21:35 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:21:52 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:21:52 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:22:08 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:22:08 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:22:16 [main] ERROR BasePage:120 - Failed to click on :: Workgroups
+2019-08-25 23:22:16 [main] ERROR BasePage:121 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[@class='menu-item-link-text' and contains(text(),'Workgroups')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:22:36 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:22:36 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:22:53 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:22:53 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:23:09 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:23:09 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:23:25 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:23:25 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:23:40 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:23:40 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:23:55 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:23:55 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:24:11 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:24:11 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:24:27 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:24:27 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:24:44 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:24:44 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:25:01 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:25:01 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-25 23:25:17 [main] ERROR BasePage:71 - Loader mask doesn't present.
+2019-08-25 23:25:17 [main] ERROR BasePage:72 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for invisibility of Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='loader-mask shown']' (tried for 3 second(s) with 500 milliseconds interval)
